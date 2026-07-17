@@ -1,4 +1,3 @@
-# 📊 Portfólio de Análise de Dados — Renata Becalete
 
 Olá! 👋 Bem-vindo(a) ao meu portfólio.
 

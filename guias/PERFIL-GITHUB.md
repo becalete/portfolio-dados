@@ -18,7 +18,7 @@ como uma apresentação. É a primeira coisa que um recrutador vê.
 ## Modelo pronto — é só copiar daqui para baixo
 
 ```markdown
-# Olá, eu sou a Rebeca! 👋
+# Olá, eu sou a Renata! 👋
 
 📊 **Analista de Dados em formação** | Excel • Power BI • Python
 
@@ -50,6 +50,6 @@ rotinas do meu trabalho com Python e sigo estudando para ir cada vez mais fundo.
 ---
 
 ✏️ **Dicas antes de colar:**
-- Se seu nome não for Rebeca, corrija na primeira linha 😄
+- Se seu nome não for Renata, corrija na primeira linha 😄
 - Troque o link do LinkedIn pelo seu link real (no app do LinkedIn: seu perfil → três pontinhos → "Compartilhar perfil")
 - O texto é seu: deixe com a sua cara, sem medo!
