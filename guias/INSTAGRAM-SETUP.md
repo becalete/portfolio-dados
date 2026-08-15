@@ -41,19 +41,27 @@ e some no meio de mil iguais.
 
 ---
 
-## 3. Bio pronta — é só copiar e colar
+## 3. Bio pronta — marca escolhida: **Estúdio Planifica** ✅
 
+**Nome de exibição** (o campo em negrito, que aparece na busca — importante pro SEO):
 ```
-📊 Planilhas prontas que organizam seu dinheiro e seu negócio
-✅ Controle financeiro, vendas e estoque — fáceis de usar
-✨ Feita por quem trabalha com dados de verdade
-👇 Peça a sua ou baixe um modelo
+Estúdio Planifica | Planilhas
 ```
 
-> A última linha (o "call to action") aponta pro seu link. No começo, o link pode
-> ser só o seu WhatsApp (crie um número/Business separado, não o pessoal) ou um
-> Linktree grátis. **Preço e venda acontecem no direct/WhatsApp, nunca no feed** —
-> mesmo motivo do LinkedIn: discrição.
+**Bio** (é só copiar e colar — cabe no limite de 150 caracteres):
+```
+📊 Planilhas prontas que organizam vida, negócios e finanças
+✅ Simples de usar no Excel e no Google Sheets
+📩 Peça a sua aqui no direct
+👇 Modelos abaixo
+```
+
+**Foto de perfil:** use o logo do Estúdio Planifica que você já criou. 🎉
+
+> A última linha (o "call to action") aponta pro seu link (a setinha 👇). No começo
+> o link pode ser um **Linktree grátis** ou direto o link de pagamento (ver seção 6).
+> **Preço e venda acontecem no direct ou no link, nunca no feed** — mesmo motivo do
+> LinkedIn: discrição.
 
 ---
 
@@ -87,11 +95,53 @@ Legendas e artes desses posts eu monto com você assim que a planilha estiver pr
 
 ---
 
+## 6. 💳 Como as pessoas vão pagar
+
+Existem dois momentos. Não pule direto pro automático — comece simples pra vender
+**esta semana**, e automatize quando já tiver as primeiras vendas.
+
+### Fase 1 — Começar HOJE (manual, sem custo, sem burocracia)
+
+**PIX + entrega manual.** O cliente chama no direct → você manda sua chave PIX →
+ele paga → você envia o link/arquivo da planilha. Simples e instantâneo.
+
+- ✅ Zero taxa, funciona já, sem cadastro em nada.
+- 💡 **Dica de discrição:** use uma **chave PIX aleatória** (o banco gera pra você),
+  assim você não expõe seu telefone nem e-mail pro cliente. O seu nome legal ainda
+  aparece no comprovante — isso é normal pra qualquer vendedor e não te liga ao
+  trabalho de forma nenhuma.
+- ⚠️ Limitação: você precisa entregar "na mão". Bom pras primeiras 5–10 vendas.
+
+### Fase 2 — Automatizar (vende sozinho, até enquanto você trabalha)
+
+Quando as vendas começarem, use uma **plataforma de produto digital**. O cliente
+paga (PIX, cartão, boleto) e ela **entrega a planilha automaticamente**, 24h por
+dia, sem você precisar responder nada.
+
+| Plataforma | Custo | Por que é boa pra você |
+|------------|-------|------------------------|
+| **Kiwify** | ~ grátis, cobra só por venda | A mais simples do Brasil pra produto digital. Entrega automática. |
+| **Cakto** | idem | Concorrente da Kiwify, taxas competitivas, fácil. |
+| **Hotmart** | idem | A mais conhecida; boa se quiser criar mais produtos depois. |
+
+- ✅ **Entrega automática = discrição máxima.** Você não precisa responder direct em
+  horário de trabalho. A venda acontece sozinha; você só vê o dinheiro cair.
+- ✅ Gera um **link de pagamento** que você cola na bio e nos posts.
+- ⚠️ Taxa por volta de 8–10% por venda — vale muito pela automação.
+
+### O caminho recomendado
+
+> **Semana 1–2:** PIX manual, pra provar que vende e pegar os primeiros depoimentos.
+> **Depois:** sobe pra Kiwify/Cakto, cola o link na bio e deixa vender no automático.
+
+---
+
 ## ✅ Sua tarefa de hoje (10 minutos)
 
-1. Escolher o nome (recomendo **Planilha que Resolve**) e conferir o @ na busca.
-2. Criar a conta profissional e colar a bio acima.
-3. Colocar a foto de perfil (provisória, um emoji/ícone serve por enquanto).
+1. Criar a conta profissional com o nome **Estúdio Planifica** e o logo como foto.
+2. Colar o **nome de exibição** e a **bio** (seção 3).
+3. No link da bio, por enquanto, colocar seu WhatsApp/PIX (ou deixar "chame no
+   direct"). Automatizar depois.
 
-Feito isso, me chama: eu **construo a primeira planilha de verdade** e a gente tira
-o print pro Post 1. Aí sua loja está no ar com produto e vitrine. 🚀
+Feito isso, você tem **marca + vitrine + produto + forma de pagamento**. É uma
+loja completa no ar. 🚀
