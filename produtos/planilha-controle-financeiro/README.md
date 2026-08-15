@@ -44,6 +44,12 @@ nova pro cliente. A sua matriz fica intacta e cada comprador recebe a dele.
 4. Pronto — esse é o link que você manda pra **todo** cliente. Quando ele clica, o
    Google pergunta *"Fazer uma cópia?"* e ele ganha a própria versão no Drive dele.
 
+> **"Mas se está como Leitor, como o cliente edita?"** O "Leitor" vale só pra SUA
+> matriz — serve pra ninguém estragar seu original. A **cópia** que o cliente cria
+> é um arquivo novo, no Drive dele, onde **ele é o dono e edita tudo à vontade**.
+> É como uma fotocópia: você guarda o molde e cada pessoa escreve no caderno que
+> levou pra casa. Você faz a matriz uma vez e vende cópias infinitas.
+
 **Para quem prefere Excel:** mande também o arquivo `.xlsx` (por WhatsApp ou um link
 de download do Drive). Assim você atende os dois públicos.
 
